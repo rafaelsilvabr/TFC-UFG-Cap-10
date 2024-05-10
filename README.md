@@ -7,7 +7,7 @@ O repositório inclui os seguintes materiais utilizados e desenvolvidos durante 
 - Relatório: Um relatório detalhado que acompanha o seminário, incluindo análises aprofundadas, interpretações dos resultados obtidos através da PCA e discussões sobre as implicações desses resultados no contexto da ciência de dados. O relatório também inclui referências a estudos de caso relevantes e literatura especializada.
 - Link para o Vídeo
 Para uma exploração mais interativa e detalhada do tema, assista ao vídeo do seminário no YouTube, onde conceitos são visualmente demonstrados e discutidos. O vídeo pode ser acessado através do seguinte link:
-[Assistir ao Vídeo do Seminário sobre PCA]()
+[Assistir ao Vídeo do Seminário sobre PCA](https://youtu.be/KIg5dLbWFB0)
 
 # Participantes do Trabalho
 Este trabalho foi realizado com a colaboração dos seguintes participantes:
